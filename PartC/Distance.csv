@@ -1,0 +1,6 @@
+Host,inet,port,weight
+R1,172.0.1.2,2552,2
+R2,-,2552,inf
+R3,-,2552,inf
+R4,-,2552,inf
+H2,-,2552,inf

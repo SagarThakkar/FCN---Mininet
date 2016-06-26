@@ -1,0 +1,8 @@
+ Empty config file required to get Zebra to start
+hostname H1 
+
+password zebra
+enable password zebra
+
+log file /var/log/quagga/zebra.log
+
